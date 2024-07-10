@@ -1,5 +1,24 @@
 # Changelog
 
+## [11.2.0](https://github.com/AstroNvim/astrocommunity/compare/v11.1.0...v11.2.0) (2024-07-10)
+
+
+### Features
+
+* **editing-support:** add `nvim-origami` ([#1098](https://github.com/AstroNvim/astrocommunity/issues/1098)) ([a683346](https://github.com/AstroNvim/astrocommunity/commit/a683346a59159a9d9e782c338a75a11fa4d99a55))
+* **go:** configure language specific icons in `mini.icons` ([7f0316d](https://github.com/AstroNvim/astrocommunity/commit/7f0316dead2c7fb58a27b5d41a5763fba255f4f2))
+* **pack:** add Chezmoi pack ([#1102](https://github.com/AstroNvim/astrocommunity/issues/1102)) ([ccb2f57](https://github.com/AstroNvim/astrocommunity/commit/ccb2f57a5a7e78b64d56f2044c14b483b6e78d9c))
+* **typescript:** configure language specific icons in `mini.icons` ([db07ec9](https://github.com/AstroNvim/astrocommunity/commit/db07ec9f77d8cdafbfa3ccf75c08e13b9c4901c6))
+
+
+### Bug Fixes
+
+* **just:** use native treesitter parser ([#1100](https://github.com/AstroNvim/astrocommunity/issues/1100)) ([bd09782](https://github.com/AstroNvim/astrocommunity/commit/bd097825c05cd688b92a34d5c65cbe5085e6cad7))
+* **nix:** `nixd` should not be installed through mason ([44e8c95](https://github.com/AstroNvim/astrocommunity/commit/44e8c959bb66a76a98efee588fe7bc56b8ecf754))
+* **nix:** Actually use nixd LSP ([#1101](https://github.com/AstroNvim/astrocommunity/issues/1101)) ([eece4c6](https://github.com/AstroNvim/astrocommunity/commit/eece4c6349f6bd81865d26b90727f20e5f8fb295))
+* **nix:** AstroLSP should be optional ([09a82e1](https://github.com/AstroNvim/astrocommunity/commit/09a82e154d407d75e8781889d86a4557f1328250))
+* **typescript:** `mini.icons` should be optional ([cb2eea3](https://github.com/AstroNvim/astrocommunity/commit/cb2eea3147d37a83dfbee8438cfeb849d87d4c1d))
+
 ## [11.1.0](https://github.com/AstroNvim/astrocommunity/compare/v11.0.0...v11.1.0) (2024-07-08)
 
 
